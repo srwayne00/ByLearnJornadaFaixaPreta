@@ -1,3 +1,5 @@
+##### Jornada Python Faixa Preta, é um curso gratuito oferecido pela ByLearn aula 07/10/2020
+
 # Condicionais
     # Principal forma de atribuir uma lógica ao seu código.
     # Basicamente é uma tomada de decisão caso a condição seja verdadeira.

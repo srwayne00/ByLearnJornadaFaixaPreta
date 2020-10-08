@@ -1,4 +1,4 @@
-##### Programador Python Faixa Preta, é um curso gratuito oferecido pela escola ByLearn aula 05/10/2020
+##### Jornada Python Faixa Preta, é um curso gratuito oferecido pela ByLearn aula 05/10/2020
 
 # Professor Felipe Cabrera (Zarcky) 
 

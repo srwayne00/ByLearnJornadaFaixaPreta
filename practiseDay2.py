@@ -1,3 +1,5 @@
+##### Jornada Python Faixa Preta, é um curso gratuito oferecido pela ByLearn aula 06/10/2020
+
 # Identação de código
 # Identação é aquele espaçamento no início da linha.\n",
 # O nível mais a direita pertence ao nível mais a esquerda"
